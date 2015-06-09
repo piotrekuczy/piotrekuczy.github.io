@@ -9,5 +9,14 @@ Jestem **nauczycielem przedmiotów informatycznych**.
 
 Znajdziesz mnie w mediach społecznościowych:
 
+Twitter
+
 {% include twitterbutton.html %}
 
+Youtube
+
+{% include youtube.html %}
+
+Facebook
+
+{% include fb.html %}
