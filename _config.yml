@@ -1,0 +1,16 @@
+# Site settings
+title: piotrekuczy
+email: piotrekuczy@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Witaj na mojej stronie poświąconej edukacji.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://piotrekuczy.edu.pl" # the base hostname & protocol for your site
+twitter_username: piotrekuczy
+github_username:  piotrekuczy
+
+paginate: 3
+paginate_path: "/blog/page:num/"
+excerpt_separator: "\n\n"
+
+# Build settings
+markdown: kramdown
