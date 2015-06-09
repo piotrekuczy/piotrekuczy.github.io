@@ -47,12 +47,14 @@ layout: default
 </ul>
 {% endif %}
     
+<!--
           <h1 class="page-heading">Kategorie postów</h1>
     {% for category in site.categories %}
     <a href="/{{ category | first | slugize }}/">
         {{ category | first }}
     </a>
 {% endfor %}
+-->
 <br><br>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
